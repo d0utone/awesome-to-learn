@@ -5,9 +5,9 @@
 ## Skills
 
 ### Typing
-- 10 Fast Fingers
-- Typingclub
-- Typelit.io
+- [10 Fast Fingers](https://10fastfingers.com)
+- [Typingclub](https://typingclub.com)
+- [Typelit](https://Typelit.io)
 
 ### Coding
 - Katas
