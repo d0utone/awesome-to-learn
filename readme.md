@@ -10,8 +10,5 @@
 - [Typelit](https://Typelit.io)
 
 ### Coding
-- Katas
-
-### Living
-- LifeProTips
+- [Codewars](https://www.codewars.com/)
  
